@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlasticRosewood
 - 👀 I’m interested in machine learning and game development
-- 🌱 I’m currently learning python and c#
+- 🌱 I’m currently learning C and Java
 
 
 <!---
