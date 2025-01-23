@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlasticRosewood
-- 👀 I’m interested in machine learning and game development
-- 🌱 I’m currently learning C and Java
+- 👀 I’m interested in machine learning and cybersecurity
+- 🌱 I’m currently wrapping up my 3rd year of my Computer Science Degree at the University of Central Florida
 
 
 <!---
