@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlasticRosewood
 - 👀 I’m interested in machine learning and cybersecurity
-- 🌱 I’m currently wrapping up my 3rd year of my Computer Science Degree at the University of Central Florida
+- 🌱 I’m currently entering my 4th year of my Computer Science Degree at the University of Central Florida
 
 
 <!---
